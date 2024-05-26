@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-- 🎓 BSc. Computer Science
+- 🎓 BSc. in Computer Science
 - 📚 Studying Golang 
 - 🌎 Rio de Janeiro, Brazil. 
 
