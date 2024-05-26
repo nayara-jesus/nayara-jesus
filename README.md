@@ -3,7 +3,8 @@
 - 🎓 BSc. in Computer Science
 - 📚 Studying Golang 
 - 🌎 Rio de Janeiro, Brazil.
-<p>I'm passionate about technology...</p>
+
+<p>I'm passionate about technology. Since May 2024, I've been studying golang daily for approximately 2 hours, and it's the highlight of my day. I chose this language because it's efficient, easy to learn and has a rapidly growing community.</p>
 
 <div> 
     <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -35,7 +36,17 @@
 
 <div align="left">
   
+```go
+package main
 
+import "fmt"
+
+func main() {
+    fmt.Println("Thanks for being here!")
+}
+```
+
+<div align="center"> Nayara Jesus </div>
 
 <!--
 nayara-jesus/nayara-jesus
