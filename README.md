@@ -6,12 +6,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,go,vscode" />
+    <img src="https://skillicons.dev/icons?i=go,vscode,git,github" />
   </a>
 </p>
 
 
-<img align="right" alt="Code Girl image" src="./codeGirl.jpg"  width="300px"/>
+<img align="right" alt="Code Girl image" src="./golang.png"  width="300px"/>
 
 ## My name is Nayara
 (Teste | Teste | Teste | Teste | Teste) 🚀
