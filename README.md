@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋 
+
+:us: Golang Developer
+
+:brazil: Desenvolvedora Golang
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,go,vscode" />
+  </a>
+</p>
+
+
+<img align="right" alt="Code Girl image" src="./codeGirl.jpg"  width="300px"/>
+
+## My name is Nay
+(Teste | Teste | Teste | Teste | Teste) 🚀
+- 👩‍💻 Teste
+- 🏆 Teste
+- 🎥 Teste
+- 🎓 Teste
+- 🌐 Teste
+- 💡 Teste
+
+<div align="left">
+  
+
 
 <!--
-**nayara-jesus/nayara-jesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+nayara-jesus/nayara-jesus
 -->
