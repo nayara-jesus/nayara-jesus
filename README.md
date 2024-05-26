@@ -13,7 +13,7 @@
 
 <img align="right" alt="Code Girl image" src="./golang.png"  width="300px"/>
 
-## My name is Nayara
+## Go (Golang)
 (Teste | Teste | Teste | Teste | Teste) 🚀
 - 👩‍💻 Teste
 - 🏆 Teste
