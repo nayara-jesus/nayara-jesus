@@ -22,17 +22,17 @@
 
 <img align="right" alt="Code Girl image" src="./golang.png"  width="300px"/>
 
-### Go (Golang)
-- Fundamentals
-- Control Structures
-- Arrays/Slices/Maps
-- Functions
-- Type Systems
-- Packages
-- Concurrency
-- Testing
-- Databases
-- HTTP
+### Knowledge - Go (Golang)
+- `Fundamentals`
+- `Control Structures`
+- `Arrays/Slices/Maps`
+- `Functions`
+- `Type Systems`
+- `Packages`
+- `Concurrency`
+- `Testing`
+- `Databases`
+- `HTTP`
 
 <div align="left">
   
