@@ -13,7 +13,7 @@
 
 <img align="right" alt="Code Girl image" src="./codeGirl.jpg"  width="300px"/>
 
-## My name is Nay
+## My name is Nayara
 (Teste | Teste | Teste | Teste | Teste) 🚀
 - 👩‍💻 Teste
 - 🏆 Teste
