@@ -15,12 +15,16 @@
 
 ## Go (Golang)
 (Teste | Teste | Teste | Teste | Teste) 🚀
-- 👩‍💻 Teste
-- 🏆 Teste
-- 🎥 Teste
-- 🎓 Teste
-- 🌐 Teste
-- 💡 Teste
+- 👩‍💻 Fundamentos
+- 🏆 Estruturas de controle
+- 🎥 Array/Slices/Map
+- 🎓 Funcoes
+- 🌐 Sistemas de Tipos
+- 💡 Pacotes
+- 💡 Concorrencia
+- 💡 Testes
+- 💡 Banco de dados
+- 💡 HTTP
 
 <div align="left">
   
