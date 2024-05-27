@@ -14,21 +14,5 @@
     <img src="https://skillicons.dev/icons?i=go,vscode,git,github" />
   </a>
 </p>
-
-##
-
-### Knowledge - Go (Golang)
-- `Fundamentals`
-- `Control Structures`
-- `Arrays/Slices/Maps`
-- `Functions`
-- `Type Systems`
-- `Packages`
-- `Concurrency`
-- `Testing`
-- `Databases`
-- `HTTP`
-
-
   
 
